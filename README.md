@@ -8,4 +8,6 @@ TO-DO
 ++ Photography
 ++ Research
 
-++ Cute little CSS stylings
+++ Cute CSS stylings
+
+Thank you to the friendly folks @TheOdinProject for teaching me how to deveolp a website!
