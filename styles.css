@@ -1,0 +1,52 @@
+body {
+    background-color: #D9D9D9;
+    font-family: "Inria Serif", sans-serif;
+}
+
+h1{
+
+}
+
+p{
+    color: black;
+    font-family: 'inria serif', serif;
+}
+
+#header1 {
+    color: black;
+    margin: auto;
+    width: 20%;
+    border: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 12px;
+}
+
+#header2{
+    color: black;
+    margin: auto;
+    width: 25%;
+    border: 0px;
+    padding: 2px;
+    text-align: center;
+    font-size: 12px;
+}
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+  /* visited link */
+a:visited {
+    color: black;
+}
+
+  /* mouse over link */
+a:hover {
+    color: grey;
+}
+
+  /* selected link */
+a:active {
+    color: grey;
+}
