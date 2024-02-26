@@ -10,4 +10,4 @@ TO-DO
 
 ++ Cute CSS stylings
 
-Thank you to the friendly folks @TheOdinProject for teaching me how to deveolp a website!
+Thank you to the friendly folks @TheOdinProject for teaching me how to develop a website!
