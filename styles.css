@@ -32,7 +32,7 @@ p{
     margin-top: 200px;
     margin-bottom: 400px;
     column-count: 4;
-    color: blue;
+    color: black;
 }
 #col1{
     text-align: center;
@@ -44,14 +44,6 @@ p{
     text-align: center;
 }
 #col4{
-    text-align: center;
-}
-.fa-star{
-    color: black;
-    margin: auto;
-    width: 0%;
-    border: green;
-    padding: 0px;
     text-align: center;
 }
 
