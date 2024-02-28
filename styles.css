@@ -72,7 +72,7 @@ body {
     column-gap: 2em;
 }
 
-#AboutBox{
+.AboutBox{
     background-color: #1e1e1e;
     height: 200px;
     width: 1525x;
@@ -81,7 +81,7 @@ body {
     font-size: 14px;
 }
 
-#Card{
+.Card{
     background-color: #1e1e1e;
     height: 400px;
     width: 1525x;
@@ -89,6 +89,17 @@ body {
     padding: 24px;
     font-size: 14px;
     margin-top: 15px;
+    display: grid;
+    grid-template-columns: 100px 500px 500px;
+}
+#card-col1{
+    border-style: dotted;
+}
+#card-col2{
+    border-style: dotted;
+}
+#card-col3{
+    border-style: dotted;
 }
 /* unvisited link */
 a:link {
