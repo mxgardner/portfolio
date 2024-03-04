@@ -31,21 +31,7 @@ body {
     column-count: 4;
     color: black;
 }
-#col1{
-    text-align: center;
-}
-#col2{
-    text-align: center;
-}
-#col3{
-    text-align: center;
-}
-#col4{
-    text-align: center;
-}
-.fa-star{
-    font-size: 12px;
-}
+
 #EndName{
     color: black;
     margin: auto;
@@ -74,33 +60,27 @@ body {
 
 .AboutBox{
     background-color: #1e1e1e;
-    height: 200px;
-    width: 1525x;
+    height: 150px;
+    width: 1200px;
     color: #FFFFFF;
-    padding: 12px;
+    padding: 75px;
     font-size: 14px;
+    margin: 5%;
 }
 
 .Card{
     background-color: #1e1e1e;
     height: 400px;
-    width: 1525x;
+    width: 1200px;
     color: #FFFFFF;
-    padding: 24px;
     font-size: 14px;
     margin-top: 15px;
+    padding: 75px;
+    margin: 5%;
     display: grid;
     grid-template-columns: 100px 500px 500px;
 }
-#card-col1{
-    border-style: dotted;
-}
-#card-col2{
-    border-style: dotted;
-}
-#card-col3{
-    border-style: dotted;
-}
+
 /* unvisited link */
 a:link {
     color: black;
