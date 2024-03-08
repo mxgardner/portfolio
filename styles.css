@@ -23,34 +23,6 @@ body {
     text-align: center;
     font-size: 12px;
 }
-.Content{
-    margin-left: 260px;
-    margin-right: 260px;
-    margin-top: 200px;
-    margin-bottom: 400px;
-    column-count: 4;
-    color: black;
-}
-
-#EndName{
-    color: black;
-    margin: auto;
-    width: 20%;
-    border: 0px;
-    padding: 0px;
-    text-align: center;
-    font-size: 12px;
-}
-
-#Website{
-    color: black;
-    margin: auto;
-    width: 20%;
-    border: 0px;
-    padding: 0px;
-    text-align: center;
-    font-size: 12px;
-}
 
 .NavBar{
     display: flex;
@@ -60,7 +32,7 @@ body {
 
 .AboutBox{
     background-color: #1e1e1e;
-    height: 150px;
+    height: 100px;
     width: 1200px;
     color: #FFFFFF;
     padding: 75px;
@@ -81,22 +53,44 @@ body {
     grid-template-columns: 100px 500px 500px;
 }
 
+.Footer{
+    color: black;
+    margin: auto;
+    width: 20%;
+    border: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 12px;
+}
+
+#card-col1{
+}
+#card-col2{
+}
+#card-col3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+}
+*/
+
 /* unvisited link */
 a:link {
-    color: black;
+    color: grey;
 }
 
   /* visited link */
 a:visited {
-    color: black;
+    color: darkgray;
 }
 
   /* mouse over link */
 a:hover {
-    color: grey;
+    color: white;
 }
 
   /* selected link */
 a:active {
-    color: grey;
+    color: white;
 }
