@@ -2,8 +2,8 @@ body {
     background-color: #D9D9D9;
     font-family: "Inria Serif", sans-serif;
     color: black;
+    cursor: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-qrdbe&psig=AOvVaw0n8-veZ3P5J1Hk-NmCyWyi&ust=1710024577194000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDpuo3g5YQDFQAAAAAdAAAAABAE'),auto;
 }
-
 #header-line-1 {
     color: black;
     margin: auto;
